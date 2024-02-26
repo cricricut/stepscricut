@@ -1,7 +1,7 @@
 # stepscricut
 
 <h2>cricut.com/setup</h2>
-
+<h1><Big><a href="https://cricutsetjoy.com">Get Started</a></Big></h1>
 Cricut Maker is an excellent machine for cutting materials like leather, cardstocks, paper, fabric, etc. Cricut Maker helps you make crafts, stickers, labels, and cards by cutting the materials into shapes and designs of various types. The <a href="https://github.com/cricricut/stepscricut/">cricut maker setup</a> procedure requires downloading and installing the Design Space software from cricut.com/setup. If you want to go through the setup procedure, you can follow the steps mentioned below. In order to carry out the full setup procedure through the link cricut.com/setup, go through the step-by-step process.
 
 <h2>How to Use the Cricut Maker Machine?</h2>
